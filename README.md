@@ -1,2 +1,2 @@
 # Stock-Prices
-A comparison between stock prices for Google, Apple, and Amazon
+Analysis and visualization of stock prices for Google, Apple, and Amazon using python libraries.
